@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"my_calculator_app/calculator"
-	"my_calculator_app/utils"
+
+	"github.com/Rohit4530/go-calculator/calculator"
+	"github.com/Rohit4530/go-calculator/utils"
 )
 
 func main() {
